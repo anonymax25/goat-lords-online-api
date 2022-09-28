@@ -1,0 +1,5 @@
+export enum CardType {
+    GENERAL_STORE="GENERAL_STORE",
+    PROPERTY="PROPERTY",
+    BAD_LUCK="BAD_LUCK"
+}
